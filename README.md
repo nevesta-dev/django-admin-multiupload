@@ -7,7 +7,7 @@ Multi file upload for django-admin app
 Installation
 ------------
 
-pip install git+git://github.com:nevesta-dev/django-admin-multiupload.git
+pip install git+git://github.com/nevesta-dev/django-admin-multiupload.git
 
 Requeriments
 ------------
